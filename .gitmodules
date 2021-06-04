@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository_Belousov"]
+	path = SubmoduleRepository_Belousov
+	url = https://github.com/RedMeat-61/SubmoduleRepository_Belousov
